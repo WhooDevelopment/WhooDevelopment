@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WhooDevelopment
 - 👀 I’m interested in Javascript and Lua
-- 🌱 I’m currently learning .js .lua
+- 🌱 I’m currently learning (.js) (.lua)
 - 📫 Discord: " THE WHOOO#2471 "
